@@ -19,11 +19,3 @@ divideEvenly();
 
 
 
-
-/* do {
-	console.log("The number is: ", numberToBeTested);
-	
-}  while (numberToBeTested % 10 !== 0) && (numberToBeTested % 9 !== 0) && (numberToBeTested % 8 !== 0) && (numberToBeTested % 7 !== 0) && (numberToBeTested % 6 !== 0) &&
-		(numberToBeTested % 6 !== 0) && (numberToBeTested % 5 !== 0) && (numberToBeTested % 4 !== 0) && (numberToBeTested % 3 !== 0) && (numberToBeTested % 2 !== 0) && (numberToBeTested % 1 === 0)
-*/
-
